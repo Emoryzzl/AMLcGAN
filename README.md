@@ -1,0 +1,2 @@
+# AMLcGAN
+AMLcGAN detection model
